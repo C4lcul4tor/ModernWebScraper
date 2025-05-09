@@ -1,7 +1,0 @@
-
-scraper:
-  browser: "chrome"
-  headless: true
-  timeout: 20
-  output_format: "csv"
-  target_url: "https://swoop.ge"
